@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Plachy;Preston;;;
+FN: Preston  Plachy 
+ORG:Fat Tire Tours;
+TITLE:Co-President
+EMAIL;type=INTERNET;type=WORK;type=pref:preston@fattiretours.com
+TEL;type=WORK;type=VOICE:+33.01.85.08.14.19
+item1.ADR;type=WORK;type=pref:;;24 rue Edgar Faure;;;75015;Paris, France
+item1.X-ABADR:sg
+item2.URL;type=pref:fattiretours.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
